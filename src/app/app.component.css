@@ -1,0 +1,13 @@
+.container {
+  height: 100%;
+}
+.search {
+  background-color: #eeeeee;
+  padding: 16px;
+  height: 100%;
+}
+.content {
+  background-color: #aaaaaa;
+  padding: 16px;
+  height: 100%;
+}
